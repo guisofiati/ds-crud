@@ -1,1 +1,10 @@
-INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Maria das Dores', '059.312.345-92', 1200.0, TIMESTAMP WITHOUT TIME ZONE '1954-04-21T20:00:00Z', 5);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Maria das Dores', '059.312.345-92', 1250.0, TIMESTAMP WITHOUT TIME ZONE '1954-04-29T20:00:00Z', 5);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('João Paulo dos Santos', '345.123.673-23', 4200.0, TIMESTAMP WITHOUT TIME ZONE '1965-03-23T20:00:00Z', 3);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Vinicius Guimaroes', '459.356.156-56', 1800.00, TIMESTAMP WITHOUT TIME ZONE '1954-04-13T20:00:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Zuleide Martins', '341.752.173-52', 1100.00, TIMESTAMP WITHOUT TIME ZONE '1954-05-30T20:00:00Z', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Marcio Gomes dos Santos', '331.552.561-92', 3450.00, TIMESTAMP WITHOUT TIME ZONE '1954-06-05T20:00:00Z', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('José Enelson Pereira', '116.451.431-13', 950.00, TIMESTAMP WITHOUT TIME ZONE '1954-07-12T20:00:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Pedro Vasconcelos', '034.221.222-56', 1450.00, TIMESTAMP WITHOUT TIME ZONE '1954-08-25T20:00:00Z', 3);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Anna Maria Bastos', '345.341.345-11', 1200.00, TIMESTAMP WITHOUT TIME ZONE '1954-09-11T20:00:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Bruno Oliveira', '039.451.451-01', 2200.00, TIMESTAMP WITHOUT TIME ZONE '1954-10-23T20:00:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_Date, children) VALUES ('Gustavo Schwender', '030.111.222-33', 8350.00, TIMESTAMP WITHOUT TIME ZONE '1978-11-21T20:00:00Z', 2);
